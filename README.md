@@ -75,8 +75,6 @@ Getting started with normalize-reset should be fairly straightforward. Just foll
 Make sure to have your own styles imported after the normalize-reset.css import.
 The normalize-reset is just a starting point, feel free to overwrite the styles when needed in your main stylesheet.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
